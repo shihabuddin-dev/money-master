@@ -2,7 +2,7 @@
 
 .merienda-font {
     font-family: "Merienda", cursive;
-  }
+}
 
 /* Remove spinner arrows for WebKit browsers (Chrome, Safari, Edge, Opera) */
 input[type="number"]::-webkit-outer-spin-button,
